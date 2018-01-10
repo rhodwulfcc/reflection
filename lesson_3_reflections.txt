@@ -1,0 +1,3 @@
+When would you want to use a remote repository rather than keeping all your work local?
+con git remote se puede ver los enlaces a repositorios remotos, git remote add ---- https://------
+crea el repositorio q ha sido creado en github, git push aaa bbb mueve el repositorio bbb local al repositorio remoto aaa
